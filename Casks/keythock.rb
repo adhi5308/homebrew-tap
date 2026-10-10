@@ -1,6 +1,6 @@
 cask "keythock" do
-  version "0.1.2"
-  sha256 "d3afca9a09d6381efa0b4d61d2ec57f155d5021229aa1e1f9bb4a12c09a170ab"
+  version "0.1.3"
+  sha256 "725f24f2357320621e221a50e95b0e13eb85872545904f3ad48cb9dc2ca438c3"
 
   url "https://github.com/adhi5308/KeyThock/releases/download/v#{version}/KeyThock-#{version}.zip"
   name "KeyThock"
